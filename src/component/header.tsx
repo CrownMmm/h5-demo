@@ -1,6 +1,10 @@
 import React from "react";
-import { View, Image } from "@tarojs/components";
+import "./index.less";
 
-export default function header() {
-  return <View>111</View>;
+export default function Header() {
+  return (
+    <>
+      <div className="header">111</div>
+    </>
+  );
 }

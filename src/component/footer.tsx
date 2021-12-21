@@ -24,7 +24,7 @@ const BOTTOM_BANNER_INFO = [
 
 export default function Footer() {
   return (
-    <div className="header footer">
+    <div className=" footer">
       {BOTTOM_BANNER_INFO.map(item => {
         return (
           <div className="footerBox">

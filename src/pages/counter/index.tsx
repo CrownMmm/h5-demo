@@ -1,5 +1,10 @@
 import React from "react";
+import Layout from "../layout";
 
-export default function index() {
-  return <div></div>;
+export default function Counter() {
+  return (
+    <Layout>
+      <div>我是Counter</div>
+    </Layout>
+  );
 }

@@ -1515,6 +1515,13 @@
     webpack-format-messages "^2.0.5"
     yauzl "2.10.0"
 
+"@tarojs/plugin-html@^3.3.17":
+  version "3.3.17"
+  resolved "https://registry.npmmirror.com/@tarojs/plugin-html/download/@tarojs/plugin-html-3.3.17.tgz#32c3aae62c11dd130fff2d09ca2e4ded1cb7ea3d"
+  integrity sha512-Mi9yROLMGWiOi0hYjqLWkNeqSN0m+D8W5iNxM09SMBUYK4KQTHS+2kdn1pGSHmV6Lnn4ugc160BsICgLH5jM/g==
+  dependencies:
+    "@tarojs/shared" "3.3.17"
+
 "@tarojs/plugin-platform-alipay@3.3.17":
   version "3.3.17"
   resolved "https://registry.npmmirror.com/@tarojs/plugin-platform-alipay/download/@tarojs/plugin-platform-alipay-3.3.17.tgz#d6f4e20760714e70e98cc22de73702099399ca9b"
